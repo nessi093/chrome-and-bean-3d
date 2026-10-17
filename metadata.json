@@ -1,0 +1,7 @@
+{
+  "name": "CHROME & BEAN 3D Cafe Experience",
+  "description": "Interactive architectural 3D model of CHROME & BEAN Roastery & Bar featuring full interior layout, roaster lab, coworking zone, terrace, and dusk lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
